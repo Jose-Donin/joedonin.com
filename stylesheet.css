@@ -1,0 +1,65 @@
+body{
+	background-color: black;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:visited{
+	color: white;
+}
+a:hover{
+	color: #9900ff;
+}
+
+h2{
+	font-family: arial;
+	font-size: 25px;
+}
+
+
+
+.container{
+	display: inline-flex;
+	text-decoration: none;
+	background-color: black;
+	font-family: arial;
+}
+
+.about{
+	background-color: black;
+	text-align: center;
+	color:gray;
+	height: 400px;
+	width: 500px;
+	position: absolute;
+	left: 40%;
+	top: 35%;
+	border-radius: 20px;
+}
+.about h1{
+	font-family: arial;
+	color: #9900ff;
+	font-size: 50px;
+}
+.about p1{
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+	justify-content: center;
+}
+.EXPERIENCE{
+	background-color: black;
+	width: 210px;
+	border-radius: 20px;
+	text-align: center;
+	color:#9900ff;
+}
+.projects{
+	background-color: black;
+	width: 200px;
+	border-radius: 20px;
+	text-align: center;
+
+}
